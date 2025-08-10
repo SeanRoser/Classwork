@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TwoDimensionalShape
+comment1.params=
+comment1.target=TwoDimensionalShape()
+comment10.params=
+comment10.target=double\ perimeter()
+comment2.params=units\ lineColor\ fillColor
+comment2.target=TwoDimensionalShape(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=units
+comment3.target=void\ setUnits(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getUnits()
+comment5.params=lineColor
+comment5.target=void\ setLineColor(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getLineColor()
+comment7.params=fillColor
+comment7.target=void\ setFillColor(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getFillColor()
+comment9.params=
+comment9.target=double\ area()
+numComments=11

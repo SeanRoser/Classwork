@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GlobalPositioningLocation
+comment1.params=
+comment1.target=GlobalPositioningLocation()
+comment10.params=
+comment10.target=java.lang.String\ getElevationUnits()
+comment2.params=latitude\ longitude\ elevation\ elevationUnits
+comment2.target=GlobalPositioningLocation(double,\ double,\ double,\ java.lang.String)
+comment3.params=latitude
+comment3.target=void\ setLatitude(double)
+comment4.params=
+comment4.target=double\ getLatitude()
+comment5.params=longitude
+comment5.target=void\ setLongitude(double)
+comment6.params=
+comment6.target=double\ getLongitude()
+comment7.params=elevation
+comment7.target=void\ setElevation(double)
+comment8.params=
+comment8.target=double\ getElevation()
+comment9.params=elevationUnits
+comment9.target=void\ setElevationUnits(java.lang.String)
+numComments=11

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SemesterEnrollment
+comment1.params=studentName\ studentNumber
+comment1.target=SemesterEnrollment(java.lang.String,\ int)
+comment10.params=filename
+comment10.target=void\ save(java.lang.String)
+comment2.params=filename
+comment2.target=SemesterEnrollment(java.lang.String)
+comment3.params=studentName
+comment3.target=void\ setStudentName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getStudentName()
+comment5.params=studentNumber
+comment5.target=void\ setStudentNumber(int)
+comment6.params=
+comment6.target=int\ getStudentNumber()
+comment7.params=course
+comment7.target=void\ register(java.lang.String)
+comment8.params=course
+comment8.target=void\ drop(java.lang.String)
+comment9.params=course
+comment9.target=boolean\ search(java.lang.String)
+numComments=11

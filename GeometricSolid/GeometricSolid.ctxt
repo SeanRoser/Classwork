@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GeometricSolid
+comment1.params=
+comment1.target=GeometricSolid()
+comment2.params=units\ material\ description
+comment2.target=GeometricSolid(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=units
+comment3.target=void\ setUnits(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getUnits()
+comment5.params=material
+comment5.target=void\ setMaterial(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getMaterial()
+comment7.params=description
+comment7.target=void\ setDescription(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getDescription()
+numComments=9

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cylinder
+comment1.params=
+comment1.target=Cylinder()
+comment2.params=radius\ height\ units\ material\ description
+comment2.target=Cylinder(double,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=radius
+comment3.target=void\ setRadius(double)
+comment4.params=
+comment4.target=double\ getRadius()
+comment5.params=height
+comment5.target=void\ setHeight(double)
+comment6.params=
+comment6.target=double\ getHeight()
+comment7.params=description
+comment7.target=void\ setDescription(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getDescription()
+comment9.params=
+comment9.target=java.lang.Double\ volume()
+numComments=10

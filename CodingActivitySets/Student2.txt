@@ -1,0 +1,5 @@
+Jane Jones
+987654321
+CS272 Java Programming 2
+CS231 Python Programming 2
+CS150 C++ Programming

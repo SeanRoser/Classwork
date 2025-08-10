@@ -1,0 +1,6 @@
+Road Trip Information
+Car Model: Bugatti Chiron
+Trip Distance:    246.8000 miles
+Trip Time:          2.0000 hours
+Average Speed:        123.4000 hours
+Driver:           Jane Doe
