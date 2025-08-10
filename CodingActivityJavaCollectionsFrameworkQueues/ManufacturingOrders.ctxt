@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ManufacturingOrders
+comment1.params=
+comment1.target=ManufacturingOrders()
+comment2.params=filename
+comment2.target=ManufacturingOrders(java.lang.String)
+comment3.params=customer\ carModel\ color
+comment3.target=void\ newOrderPlaced(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=order
+comment4.target=void\ newOrderPlaced(Vehicle)
+comment5.params=
+comment5.target=Vehicle\ orderShipped()
+comment6.params=
+comment6.target=Vehicle\ workInProgress()
+comment7.params=filename
+comment7.target=int\ save(java.lang.String)
+numComments=8

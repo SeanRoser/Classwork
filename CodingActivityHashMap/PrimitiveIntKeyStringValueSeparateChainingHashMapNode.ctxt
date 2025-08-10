@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PrimitiveIntKeyStringValueSeparateChainingHashMapNode
+comment1.params=key\ value\ nextNode
+comment1.target=PrimitiveIntKeyStringValueSeparateChainingHashMapNode(int,\ java.lang.String,\ PrimitiveIntKeyStringValueSeparateChainingHashMapNode)
+comment2.params=
+comment2.target=int\ getKey()
+comment3.params=
+comment3.target=java.lang.String\ getValue()
+comment4.params=
+comment4.target=PrimitiveIntKeyStringValueSeparateChainingHashMapNode\ getNextNode()
+comment5.params=value
+comment5.target=void\ setValue(java.lang.String)
+comment6.params=nextNode
+comment6.target=void\ setNextNode(PrimitiveIntKeyStringValueSeparateChainingHashMapNode)
+numComments=7

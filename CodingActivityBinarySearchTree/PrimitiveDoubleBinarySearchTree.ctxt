@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PrimitiveDoubleBinarySearchTree
+comment1.params=
+comment1.target=PrimitiveDoubleBinarySearchTree()
+comment2.params=rootElement
+comment2.target=PrimitiveDoubleBinarySearchTree(double)
+comment3.params=array
+comment3.target=PrimitiveDoubleBinarySearchTree(double[])
+comment4.params=element
+comment4.target=boolean\ insert(double)
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=searchElement
+comment6.target=boolean\ Search(double)
+comment7.params=element
+comment7.target=PrimitiveDoubleBinarySearchTreeNode\ getParent(double)
+numComments=8

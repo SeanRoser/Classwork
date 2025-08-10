@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ArrayMethod
+comment1.params=display\ array
+comment1.target=void\ display(java.lang.String,\ java.lang.Object[])
+comment2.params=value\ array
+comment2.target=void\ initialize(java.lang.Object,\ java.lang.Object[])
+numComments=3

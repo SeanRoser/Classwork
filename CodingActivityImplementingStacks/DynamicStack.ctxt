@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DynamicStack
+comment1.params=
+comment1.target=DynamicStack()
+comment2.params=array
+comment2.target=DynamicStack(java.lang.Object[])
+comment3.params=element
+comment3.target=void\ push(java.lang.Object)
+comment4.params=
+comment4.target=boolean\ empty()
+comment5.params=
+comment5.target=java.lang.Object\ peek()
+comment6.params=
+comment6.target=java.lang.Object\ pop()
+comment7.params=filename
+comment7.target=void\ saveToFile(java.lang.String)
+numComments=8

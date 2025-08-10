@@ -1,0 +1,36 @@
+// PROGRAMMER NAME: Sean Roser
+
+public class SinglyLinkedListNode<E>
+{
+    // INSTANCE VARIABLES
+    private E element;
+    private SinglyLinkedListNode<E> nextNode;
+    
+    // CONSTRUCTORS
+    public SinglyLinkedListNode(E element, SinglyLinkedListNode<E> nextNode)
+    {
+        this.element = element;
+        this.nextNode = nextNode;
+    }
+    
+    // INSTANCE METHODS
+    public E getElement()
+    {
+        return element;
+    }
+    
+    public void setElement(E element)
+    {
+        this.element = element;
+    }
+    
+    public SinglyLinkedListNode getNextNode()
+    {
+        return nextNode;
+    }
+    
+    public void setNextNode(SinglyLinkedListNode<E> nextNode)
+    {
+        this.nextNode = nextNode;
+    }
+}
